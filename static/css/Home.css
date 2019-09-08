@@ -1,0 +1,48 @@
+.landing {
+  background-image: url(../images/IMG_1093.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.centerLanding {
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+
+}
+
+.aboutMe {
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.portrait {
+  background-image: url(../images/IMG_0709.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  height: 325px;
+  width: 75%;
+
+}
+
+.row {
+  padding: 50px;
+}
+
+.hello .col #js {
+  margin: 0;
+  margin-right: 0;
+  background-color: yellow;
+}
+
+.js {
+  background-color: yellow;
+}
