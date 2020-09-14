@@ -39,7 +39,7 @@ class Home extends Component {
           <div>
             <div className="container about">
               <h1>Hi, my name is Alex Do!</h1>
-              <p>I'm a Junior at UW-Madison studying Electrical Engineering and Computer Sciences. I'm an engineer at heart 
+              <p>I'm a Senior at UW-Madison studying Electrical Engineering and Computer Sciences. I'm an engineer at heart 
                 seeking to expand and grow in tech professionally.</p>
             </div>
             <div className="container projects">
